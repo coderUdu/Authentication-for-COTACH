@@ -1,0 +1,10 @@
+package helper
+
+
+
+
+
+
+func GenerateAllTokens(){
+	
+}
